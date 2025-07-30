@@ -1,5 +1,12 @@
-<h1 align="center">👋 سلام! من داوود هستم</h1>
-<p align="center">توسعه‌دهنده‌ی بک‌اند با تمرکز روی Django و سیستم‌های مقیاس‌پذیر</p>
+---
+
+
+# 👋 Hi! I'm Davood  
+# 👋 سلام! من داوود هستم
+
+A Python backend developer focused on Django and scalable systems. Passionate about learning, solving complex problems, and writing clean, maintainable code.
+
+توسعه‌دهنده‌ی پایتون با تمرکز روی فریم‌ورک Django و سیستم‌های مقیاس‌پذیر. علاقه‌مند به یادگیری، حل مسائل پیچیده، و کدنویسی تمیز و قابل نگهداری.
 
 ---
 
