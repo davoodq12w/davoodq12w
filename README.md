@@ -31,6 +31,10 @@ A Python backend developer focused on Django and scalable systems. Passionate ab
   <img src="https://img.shields.io/badge/Telebot-FF5E00?style=for-the-badge&logo=telegram&logoColor=white"/>
   <img src="https://img.shields.io/badge/Regex-FF69B4?style=for-the-badge&logo=codio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unittest-6E40C9?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-00BFFF?style=for-the-badge&logo=websockets&logoColor=white"/>
+
 </p>
 
 ---
