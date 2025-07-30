@@ -42,17 +42,7 @@ A Python backend developer focused on Django and scalable systems. Passionate ab
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davoodq12w&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
----
 
-
-# 👋 Hi! I'm Davood  
-# 👋 سلام! من داوود هستم
-
-A Python backend developer focused on Django and scalable systems. Passionate about learning, solving complex problems, and writing clean, maintainable code.
-
-توسعه‌دهنده‌ی پایتون با تمرکز روی فریم‌ورک Django و سیستم‌های مقیاس‌پذیر. علاقه‌مند به یادگیری، حل مسائل پیچیده، و کدنویسی تمیز و قابل نگهداری.
-
----
 
 ## 🧰 Skills | مهارت‌ها
 
