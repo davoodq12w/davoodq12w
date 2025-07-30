@@ -97,7 +97,7 @@ A Python backend developer focused on Django and scalable systems. Passionate ab
 
 - 📧 Email | ایمیل: [davod.q12w@gmail.com](mailto:davod.q12w@gmail.com)  
 - 🐙 GitHub: [github.com/davoodq12w](https://github.com/davoodq12w)  
-- 📞 Phone | تلفن: ۰۹۰۳۷۲۴۶۸۵۰  
+- 📞 Phone |تلفن 09037246850
 
 ---
 
