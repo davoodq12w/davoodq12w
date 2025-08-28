@@ -41,17 +41,14 @@ A Python backend developer focused on Django and scalable systems. Passionate ab
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davoodq12w&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=davoodq12w&show_icons=true&theme=radical" alt="GitHub Stats"/></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=davoodq12w&theme=radical" alt="GitHub Streak"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davoodq12w&layout=compact&theme=radical" alt="Top Languages"/></td>
+    </tr>
+  </table>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davoodq12w&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davoodq12w&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
 
 
 ## 🧰 Skills | مهارت‌ها
