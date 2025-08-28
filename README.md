@@ -1,9 +1,10 @@
 ---
 
+
 # 👋 Hi! I'm Davood  
 # 👋 سلام! من داوود هستم
 
-A Python backend developer focused on Django and scalable systems. Passionate about learning, solving complex problems, and writing clean, maintainable code.  
+A Python backend developer focused on Django and scalable systems. Passionate about learning, solving complex problems, and writing clean, maintainable code.
 
 توسعه‌دهنده‌ی پایتون با تمرکز روی فریم‌ورک Django و سیستم‌های مقیاس‌پذیر. علاقه‌مند به یادگیری، حل مسائل پیچیده، و کدنویسی تمیز و قابل نگهداری.
 
@@ -23,15 +24,17 @@ A Python backend developer focused on Django and scalable systems. Passionate ab
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Telebot-FF5E00?style=for-the-badge&logo=telegram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Regex-888888?style=for-the-badge&logo=codeium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Regex-FF69B4?style=for-the-badge&logo=codio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unittest-6E40C9?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSocket-00BFFF?style=for-the-badge&logo=websockets&logoColor=white"/>
+
 </p>
 
 ---
@@ -39,16 +42,18 @@ A Python backend developer focused on Django and scalable systems. Passionate ab
 ## 📊 GitHub Stats
 
 <p align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=davoodq12w&show_icons=true&theme=radical" alt="GitHub Stats"/></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=davoodq12w&theme=radical" alt="GitHub Streak"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davoodq12w&layout=compact&theme=radical" alt="Top Languages"/></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=davoodq12w&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davoodq12w&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davoodq12w&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+
 
 ## 🧰 Skills | مهارت‌ها
 
@@ -90,14 +95,9 @@ A Python backend developer focused on Django and scalable systems. Passionate ab
 
 ## 📫 Contact | راه‌های ارتباطی
 
-<p align="center">
-  <a href="mailto:davod.q12w@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/davoodq12w">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+- 📧 Email | ایمیل: [davod.q12w@gmail.com](mailto:davod.q12w@gmail.com)  
+- 🐙 GitHub: [github.com/davoodq12w](https://github.com/davoodq12w)  
+- 📞 Phone |تلفن 09037246850
 
 ---
 
@@ -109,7 +109,6 @@ A Python backend developer focused on Django and scalable systems. Passionate ab
 - 🎂 Born: 2002 (1381 SH)  
   🎂 متولد: ۱۳۸۱ شمسی
 
-- 🎯 Constantly learning and growing, with interest in DevOps & scalable architectures  
-  🎯 همیشه در حال یادگیری و رشد، علاقه‌مند به دواپس و معماری‌های مقیاس‌پذیر
+- 🎯 Constantly learning and growing  
+  🎯 همیشه در حال یادگیری و رشد
 
----
